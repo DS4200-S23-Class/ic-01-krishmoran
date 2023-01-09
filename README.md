@@ -21,9 +21,11 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 1. In the local copy of your repo, Add the link to your GitHub Page **HERE**. 
 
-1. Push your change to your remote repo. 
+ds4200-s23-class.github.io
 
-1. See below for submission instructions.  
+2. Push your change to your remote repo. 
+
+3. See below for submission instructions.  
 
 ## Resources 
 
